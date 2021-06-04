@@ -1,3 +1,7 @@
+## How to run the file
+
+npm modules aren't installed, package-lock.json details which node modules to be installed
+
 ## Available Scripts
 
 In the project directory, you can run:
